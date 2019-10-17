@@ -1,0 +1,4 @@
+config/config.php
+queries/custom_*
+templates/*/custom_*
+.idea
